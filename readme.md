@@ -1,4 +1,4 @@
-# Sistema de Suporte - Back-end
+# Sistema(Teste) - Back-end
 
 Este é o back-end do Sistema de Suporte, desenvolvido em Java com Spring Boot. Ele fornece uma API REST para gerenciamento de clientes e tickets, incluindo operações de cadastro, edição, exclusão, listagem e busca.
 
