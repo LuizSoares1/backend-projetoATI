@@ -32,4 +32,6 @@ Este é o back-end do Sistema de Suporte, desenvolvido em Java com Spring Boot. 
 1 - application.properties
 Configure o banco de dados, porta e outras propriedades do Spring Boot. Por padrão a porta está com a numeração 8080.
 
+2 - Instale as dependência como Spring Web, Spring Data JPA e Postgree Driver.
+
 
